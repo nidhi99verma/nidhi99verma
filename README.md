@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Nidhi Verma😎</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img src="https://i2.wp.com/www.realpythonproject.com/wp-content/uploads/2021/02/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg?resize=850%2C550&ssl=1" alt="banner" width="500" height="600">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi99verma&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi99verma" /> </p>
 
