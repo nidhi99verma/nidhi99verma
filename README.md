@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nidhi Verma😎</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img src="https://i.pinimg.com/originals/8d/8c/83/8d8c83e6fd50045287375032a8797318.gif" alt="banner" width="1000" height="400">
+<img src="https://institute.careerguide.com/wp-content/uploads/2020/09/d9e204421993bf70b7bd72bbebadf0ed.gif" alt="banner" width="1000" height="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi99verma&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi99verma" /> </p>
